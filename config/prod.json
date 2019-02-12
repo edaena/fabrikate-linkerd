@@ -1,0 +1,12 @@
+{
+    "config": {},
+    "subcomponents": {
+        "linkerd": {
+            "config": {
+                "prometheus": {
+                    "scrape": true
+                }
+            }
+        }
+    }
+}

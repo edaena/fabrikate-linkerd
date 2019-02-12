@@ -1,0 +1,10 @@
+{
+    "config": {},
+    "subcomponents": {
+        "linkerd": {
+            "config": {
+                "namespace": "linkerd"
+            }
+        }
+    }
+}
